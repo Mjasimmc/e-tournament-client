@@ -1,0 +1,7 @@
+export const API_KEY = "AIzaSyCRfOufaIBlEuf_nfSz5TahZaeqGhEM_40"
+export const AUTH_DOMAIN = "my-first-project-81bc0.firebaseapp.com"
+export const PROJECT_ID = "my-first-project-81bc0"
+export const STORAGE_BUCKET = PROJECT_ID + ".appspot.com"
+export const MESSAGING_SENDER_ID = "491712000685"
+export const APP_ID = "1:491712000685:web:fe999da3ee5c1d7afc0c24"
+export const MEASUREMENT_ID = "G-9XDJE85X3V"
